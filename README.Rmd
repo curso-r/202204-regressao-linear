@@ -21,26 +21,6 @@ knitr::opts_chunk$set(
 library(magrittr)
 ```
 
-## Informações importantes
-
-```{r results='asis'}
-if(params$download_material == TRUE){
- glue::glue("- [Clique aqui](https://github.com/curso-r/{params$main_repo}/raw/master/material_do_curso.zip) para baixar o material do curso.")
-  }
-```
-
-- Nosso blog: [https://curso-r.com/blog/](https://curso-r.com/blog/)
-
-- Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e [Zen do R](https://curso-r.github.io/zen-do-r/)
-
-## Dúvidas
-
-Fora do horário de aula ou monitoria:
-
-- perguntas gerais sobre o curso deverão ser feitas no Classroom.
-
-- perguntas sobre R, principalmente as que envolverem código, deverão ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
-
 
 ## Slides
 
@@ -71,6 +51,26 @@ dplyr::mutate(
   knitr::kable()
 ```
 
+
+## Informações importantes
+
+```{r results='asis'}
+if(params$download_material == TRUE){
+ glue::glue("- [Clique aqui](https://github.com/curso-r/{params$main_repo}/raw/master/material_do_curso.zip) para baixar o material do curso.")
+  }
+```
+
+- Nosso blog: [https://curso-r.com/blog/](https://curso-r.com/blog/)
+
+- Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e [Zen do R](https://curso-r.github.io/zen-do-r/)
+
+## Dúvidas
+
+Fora do horário de aula ou monitoria:
+
+- perguntas gerais sobre o curso deverão ser feitas no Classroom.
+
+- perguntas sobre R, principalmente as que envolverem código, deverão ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 ## Scripts utilizados em aula
 

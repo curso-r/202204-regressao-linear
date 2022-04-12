@@ -1,6 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+## Slides
+
+| slides                                                                                                                  |
+|:------------------------------------------------------------------------------------------------------------------------|
+| [01-introducao-ao-curso.html](https://curso-r.github.io/main-regressao-linear/slides/01-introducao-ao-curso.html)       |
+| [02-intro-regressao-linear.html](https://curso-r.github.io/main-regressao-linear/slides/02-intro-regressao-linear.html) |
+
 ## Informações importantes
 
 -   [Clique
@@ -20,13 +27,6 @@ Fora do horário de aula ou monitoria:
 
 -   perguntas sobre R, principalmente as que envolverem código, deverão
     ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
-
-## Slides
-
-| slides                                                                                                                  |
-|:------------------------------------------------------------------------------------------------------------------------|
-| [01-introducao-ao-curso.html](https://curso-r.github.io/main-regressao-linear/slides/01-introducao-ao-curso.html)       |
-| [02-intro-regressao-linear.html](https://curso-r.github.io/main-regressao-linear/slides/02-intro-regressao-linear.html) |
 
 ## Scripts utilizados em aula
 
